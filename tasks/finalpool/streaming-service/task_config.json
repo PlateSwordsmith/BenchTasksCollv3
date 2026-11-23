@@ -1,0 +1,10 @@
+{
+  "needed_mcp_servers": [
+    "github"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "task_name": "streaming-service",
+  "implementor": "haoze"
+}
